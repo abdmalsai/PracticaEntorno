@@ -1,2 +1,3 @@
 Esta linea de texto es para la Actividad1 de git
 Seguimos modificando nuestro repositotio, ahora incluyendo ramas nuevas
+Nuestro fichero es el bueno, no nos gustan los conflictos
